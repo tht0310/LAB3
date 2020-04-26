@@ -1,0 +1,22 @@
+body{
+	background-color: #a9a9a9;
+}
+header {
+	color: white;
+}
+.my1 {
+	text-align: center;
+}
+a {
+	color: white;
+}
+
+a:hover {
+	background-color: black;
+}
+.my2 {
+	font-size: 80%;
+}
+.my3 {
+	text-align: center;
+}

@@ -1,0 +1,23 @@
+.my1 {
+	color: white;
+	font-style: italic;
+}
+.my2 {
+	color: khaki;
+}
+.my3 {
+	color: lightgray;
+	text-align: left;	
+}
+.my4 {
+	color: darkorange;
+	font-weight: bold;
+}
+.my5 {
+	color: red;
+	font-weight: bold;
+}
+table {
+	background-color: gray;		
+	font-family: sans-serif;	
+}

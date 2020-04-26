@@ -1,0 +1,15 @@
+img {
+	width: 100%;
+	height: auto;
+}
+.my1 {
+	color: red;
+	font-weight: bold;
+}
+div.my2 {
+	text-overflow: ellipsis;
+  	width: 100%; 
+}
+table {
+	width: 20%;
+}
